@@ -1,0 +1,8 @@
+{
+    "name": "mon/chronos",
+    "description": "Wordpress site for Chronos E-commerce",
+    "type": "project",
+    "require": {
+        "johnpbloch/wordpress":"*"
+    }
+}
